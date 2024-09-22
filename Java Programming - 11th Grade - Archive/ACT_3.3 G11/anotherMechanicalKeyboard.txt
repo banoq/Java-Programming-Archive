@@ -1,0 +1,8 @@
+Color:		Cherry Red
+Variant:		Blue Tactile Switches
+Number of keys:	104
+Plate Type:	Backlight RGB Full-Plate
+Length:		36.21
+Width:		14.81
+Base Price:		17990
++---+---+---+---+---+---+---+---+---+---+---+---+---+| q | w | e | r | t | y | u | i | o | p | [ | ] | |+---+---+---+---+---+---+---+---+---+---+---+---+---+| a | s | d | f | g | h | j | k | l | ; | ' |ENTER|+---+---+---+---+---+---+---+---+---+---+---+-----+| z | x | c | v | b | n | m | , | . | / |SHIFT|+---+---+---+---+---+---+---+---+---+---+------+-code by Izac Gonda ^^

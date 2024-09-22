@@ -1,0 +1,18 @@
+Input an integer between 0 and 35.
+integer:9
+9
+Input an integer between 0 and 35.
+integer:30
+The number you entered is 30 and the result of the output is U
+Input an integer between 0 and 35.
+integer:20
+The number you entered is 20 and the result of the output is K
+Input an integer between 0 and 35.
+integer:32
+The number you entered is 32 and the result of the output is W
+Input an integer between 0 and 35.
+integer:17
+The number you entered is 17 and the result of the output is H
+Input an integer between 0 and 35.
+integer:22
+The number you entered is 22 and the result of the output is M
